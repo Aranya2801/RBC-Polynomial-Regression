@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="docs/images/clinical_distributions.png" width="800" alt="Clinical Distributions"/>
+<img src="clinical_distributions.png" width="800" alt="Clinical Distributions"/>
 
 </div>
 
