@@ -1,9 +1,6 @@
 <div align="center">
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=C0392B&center=true&vCenter=true&width=800&lines= RBC+Polynomial+Regression;Clinical+Hematology+%7C+Machine+Learning+Pipeline;MIT-Grade+Research+Project" 
-  alt="Typing SVG" 
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C0392B&center=true&vCenter=true&repeat=true&width=900&lines=RBC+Polynomial+Regression;Clinical+Hematology+%7C+ML+Pipeline;MIT-Grade+Research+Project" alt="Typing SVG" />
 
 </div>
 
