@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=C0392B&center=true&vCenter=true&width=700&lines=🩸+RBC+Polynomial+Regression;Clinical+Hematology+%7C+ML+Pipeline;MIT-Grade+Research+Project" alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=C0392B&center=true&vCenter=true&width=800&lines=🩸+RBC+Polynomial+Regression;Clinical+Hematology+%7C+Machine+Learning+Pipeline;MIT-Grade+Research+Project" 
+  alt="Typing SVG" 
+/>
 
-<br/>
+</div>
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
